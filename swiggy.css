@@ -1,0 +1,54 @@
+
+.location{
+         background-color: blue;
+         height: 40px;
+         width: 40px;
+         border-radius: 10%;
+         margin-top: 10px;
+         margin-left: 100px;
+}
+
+.location div{
+            height: 4px;
+            width: 3px;
+}
+
+.nav{
+    border: 1px solid black;
+    display: flex;
+    color: #3d0d6d;
+}
+
+.search{
+    height: 20px;
+    width: 400px;
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    color: gray;
+    margin-left: 160px;
+}
+
+
+
+.last{
+    float: left;
+}
+
+.text{
+    margin-bottom: 5px;
+    margin-left: 170px;
+    color: blue;
+}
+
+
+
+section{
+    margin-top: 10px;
+    border: 1px solid rgb(22, 25, 159);
+    width: 800px;
+    height: 300px;
+    background-color: rgb(50, 50, 173);
+    justify-content: center;
+}
+
